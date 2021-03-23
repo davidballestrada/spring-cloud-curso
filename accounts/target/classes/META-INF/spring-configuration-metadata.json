@@ -1,0 +1,38 @@
+{
+  "groups": [
+    {
+      "name": "config",
+      "type": "net.tecgurus.ws.dto.ConfigurationDTO",
+      "sourceType": "net.tecgurus.ws.dto.ConfigurationDTO"
+    }
+  ],
+  "properties": [
+    {
+      "name": "config.password",
+      "type": "java.lang.String",
+      "sourceType": "net.tecgurus.ws.dto.ConfigurationDTO"
+    },
+    {
+      "name": "config.port",
+      "type": "java.lang.Integer",
+      "sourceType": "net.tecgurus.ws.dto.ConfigurationDTO",
+      "defaultValue": 0
+    },
+    {
+      "name": "config.protocolo",
+      "type": "java.lang.String",
+      "sourceType": "net.tecgurus.ws.dto.ConfigurationDTO"
+    },
+    {
+      "name": "config.uri",
+      "type": "java.lang.String",
+      "sourceType": "net.tecgurus.ws.dto.ConfigurationDTO"
+    },
+    {
+      "name": "config.usuario",
+      "type": "java.lang.String",
+      "sourceType": "net.tecgurus.ws.dto.ConfigurationDTO"
+    }
+  ],
+  "hints": []
+}
